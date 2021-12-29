@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="{ الفهرس }"/>
+<item
+    android:id="@+id/t1"
+    android:title="مبادئ علم العقيدة"/>
+<item
+    android:id="@+id/t2"
+    android:title="١_ الايمان بالله"/>
+<item
+    android:id="@+id/t3"
+    android:title="٢_ الايمان بالملائكة"/>
+<item
+    android:id="@+id/t4"
+    android:title="٣_ الايمان بالكتب"/>
+<item
+    android:id="@+id/t5"
+    android:title="٤_ الايمان بالرسل "/>
+<item
+    android:id="@+id/t6"
+    android:title="٥_ الايمان باليوم الأخر٥"/>
+<item
+    android:id="@+id/t7"
+    android:title="٦_ الايمان بالقضاء و القدر"/>
+</menu>
